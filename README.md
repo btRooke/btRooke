@@ -1,4 +1,4 @@
-## 🌐 Profile Overview
+## 🔗 Profile Overview
 
 This profile README is very much a work in progress but thought it might be nice to have for any people (or potential employers) to have an overview of what's going on around here.
 
@@ -10,11 +10,11 @@ This profile README is very much a work in progress but thought it might be nice
 - `verble`
 - `token-ring-of-fire`
 
-### 🛠 Other Projects
+### ⚡ Other Projects
 
 - `smart-home`
 
-### 🛠 University Projects
+### 🎓 University Projects
 
 The vast majority of the code I've written over the past 4 years has been for my university coursework projects.
 
