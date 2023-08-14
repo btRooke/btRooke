@@ -12,6 +12,7 @@ This profile README is very much a work in progress, but I thought it might be n
 
 ### ⚡ Other Projects
 
+- `melbourne-place`
 - `smart-home`
 
 ### 🎓 University Projects
