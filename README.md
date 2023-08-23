@@ -23,4 +23,4 @@ All of these - probably around 40 - are stored on here. These range from lock-fr
 
 In the meanwhile I'm planning to make a list of some here and such that if anyone needs to see them they can request access.
 
-***If you're an employer looking for a specific project I've mentioned in my cover letter or CV please let me know and I can send it to you personally!**
+***If you're an employer looking for a specific project I've mentioned in my cover letter or CV please let me know and I can send it to you personally!***
