@@ -4,16 +4,16 @@ _This profile README is a work in progress, but I thought it might be nice for a
 
 ### 🛠️ Hackathons
 
-- `musical-datagram-protocol`
-- `JH-compute`
-- `chrome-chats`
-- `verble`
-- `token-ring-of-fire`
+- [`musical-datagram-protocol`](https://github.com/btRooke/musical-datagram-protcol)
+- [`JH-compute`](https://github.com/btRooke/JH-compute)
+- [`chrome-chats`](https://github.com/btRooke/chrome-chats)
+- [`verble`](https://github.com/btRooke/verble)
+- [`token-ring-of-fire`](https://github.com/btRooke/token-ring-of-fire)
 
 ### ⚡ Other Projects
 
-- `melbourne-place`
-- `smart-home`
+- [`melbourne-place`](https://github.com/btRooke/melbourne-place)
+- [`smart-home`](https://github.com/btRooke/smart-home)
 
 ### 🎓 University Projects
 
