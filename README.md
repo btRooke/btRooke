@@ -1,7 +1,5 @@
 ## 🔗 Profile Overview
 
-_This profile README is a work in progress, but I thought it might be nice for any people (or potential employers) to have an overview of what's going on around here._
-
 ### 🛠️ Hackathons
 
 - [`musical-datagram-protocol`](https://github.com/btRooke/musical-datagram-protcol)
@@ -17,8 +15,6 @@ _This profile README is a work in progress, but I thought it might be nice for a
 - [`smart-home`](https://github.com/btRooke/smart-home)
 
 ### 🎓 University Projects
-
-The vast majority of the code I've written over the past 4 years has been for my university coursework projects.
 
 All of these - probably around 40 - are stored on here. These range from lock-free lists in C to [_Kraken Arms_](https://btrooke.github.io/CS4102-practicals/partFour.html) in WebGL. I'll probably make these public in a year or two (2025) so no one comes after me!
 
