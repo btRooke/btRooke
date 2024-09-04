@@ -1,4 +1,4 @@
-## 🔗 Profile Overview
+## 🔗 Public Repositories
 
 ### 🛠️ Hackathons
 
