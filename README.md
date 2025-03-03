@@ -2,6 +2,7 @@
 
 ### 🛠️ Hackathons
 
+- [`global game jam 2025`](https://github.com/btRooke/ggj-2025)
 - [`musical-datagram-protocol`](https://github.com/btRooke/musical-datagram-protcol)
 - [`JH-compute`](https://github.com/btRooke/JH-compute)
 - [`chrome-chats`](https://github.com/btRooke/chrome-chats)
