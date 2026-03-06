@@ -11,7 +11,7 @@
 - [`Stickney Lineman`](https://github.com/btRooke/stickney-lineman) 👾
 - [`token-ring-of-fire`](https://github.com/btRooke/token-ring-of-fire) 👾
 
-👾 = Game
+👾 = game
 
 ### ⚡ Other Projects
 
